@@ -14,8 +14,8 @@ public class TestHiding {
 		
 		//call static methods which are hiden
 		
-		city.buildARoad();
-		cap.buildARoad();
+//		city.buildARoad();
+//		cap.buildARoad();
 		
 		//or
 		
